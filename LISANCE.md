@@ -1,7 +1,7 @@
+```text
 ▀█▀ ▄▀█ █▄▀ █ █▀▄▀█ █▀▀ █ ▀█ █▀▀ █ █▀ █
 ░█░ █▀█ █░█ █ █░▀░█ █▄▄ █ █▄ █▄█ █ ▄█ █
-# TakımÇizgisi LSH-1 Lisansı
-
+```
 ## Limited Source Human License (LSH-1)
 
 **Sürüm:** 1.0  
