@@ -1,3 +1,5 @@
+License-Identifier: LicenseRef-TakimCizgisi-LSH-1.0
+
 ▀█▀ ▄▀█ █▄▀ █ █▀▄▀█ █▀▀ █ ▀█ █▀▀ █ █▀ █
 ░█░ █▀█ █░█ █ █░▀░█ █▄▄ █ █▄ █▄█ █ ▄█ █
 Limited Source Human License (LSH-1)
